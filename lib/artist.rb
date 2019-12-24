@@ -6,5 +6,5 @@ class Artist
     @genre = genre
   end
   
-  artist.name = 
+  song.artist.name 
 end
