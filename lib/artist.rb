@@ -7,5 +7,6 @@ class Artist
   end
   
   def self.name 
-    @name = Art
-end
+    @name = Artist.name 
+ end
+end 
