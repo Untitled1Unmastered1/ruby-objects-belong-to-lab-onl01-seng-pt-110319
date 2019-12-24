@@ -6,8 +6,3 @@ class Artist
   end
 end 
 
-drake = Artist.new("Drake", "rap")
-hotline_bling = Song.new("Hotline Bling")
-end 
-hotline_bling.artist = drake
-end 
