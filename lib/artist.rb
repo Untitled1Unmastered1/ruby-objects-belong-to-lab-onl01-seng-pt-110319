@@ -5,4 +5,7 @@ class Artist
     @name = name
     @genre = genre
   end
+  
+  def self.name 
+    @name = Art
 end
