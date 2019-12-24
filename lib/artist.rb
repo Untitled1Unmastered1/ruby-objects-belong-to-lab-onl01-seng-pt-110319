@@ -5,6 +5,5 @@ class Artist
     @name = name
   end
   
-  def @Artist
 end 
 
