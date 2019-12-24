@@ -1,2 +1,2 @@
 class post
-  attr_accessor :
+  attr_accessor :title, :
